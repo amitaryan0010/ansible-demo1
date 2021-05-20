@@ -1,0 +1,5 @@
+---
+- name: udaipur
+  service:
+    name: httpd
+    state: restarted
